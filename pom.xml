@@ -10,7 +10,7 @@
 
     <groupId>com.facebook.presto.cassandra</groupId>
     <artifactId>cassandra-server</artifactId>
-    <version>2.1.16-1-SNAPSHOT</version>
+    <version>2.1.16-1</version>
 
     <name>cassandra-server</name>
     <description>Shaded version of Apache Cassandra for Presto</description>
@@ -32,7 +32,7 @@
         <connection>scm:git:git://github.com/prestodb/presto-cassandra-server.git</connection>
         <developerConnection>scm:git:git://github.com/prestodb/presto-cassandra-server.git</developerConnection>
         <url>https://github.com/prestodb/presto-cassandra-server</url>
-        <tag>HEAD</tag>
+        <tag>2.1.16-1</tag>
     </scm>
 
     <properties>
